@@ -1,75 +1,76 @@
-<!-- Cyberpunk Style GitHub Profile README -->
+<!-- 💀 CYBERPUNK-INSPIRED, NEON-GLOWING, FULL POWER README 💀 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=3000&color=00FFF0&center=true&vCenter=true&lines=Welcome+to+my+Cyberpunk+Zone!;Java+Dev+%2F+QA+%2F+Mathematics+Enthusiast;Web+Wizard+with+JS+HTML+CSS+Power;Spring+Boot+Rider+in+the+Code+Matrix" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Major+Mono+Display&size=40&duration=5000&color=FF00FF&center=true&vCenter=true&lines=⚡+WELCOME+TO+MY+DIGITAL+REALM+⚡;☕+JAVA+WARRIOR+%2F+QA+HACKER+%2F+MATH+WIZARD;🌐+WEB+MAGICIAN+%2F+SPRING+SAMURAI" />
 </h1>
 
-<br />
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/fdLRw6Y0S6TCM/giphy.gif" width="300" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 WHO AM I?
 
-> 🚀 Welcome, netrunner! I’m a **Java developer**, **QA explorer**, **math thinker**, and a **code architect** blending logic with digital art in a neon-lit matrix.  
-> My mission: build, test and deploy systems that are as elegant as a synthwave beat and as precise as a sniper in cyberspace.
-
----
-
-## 🛠 Tech Stack
-
-🟪 **Programming Languages:**
-
-```text
-☕ Java          — My main sword
-🧮 Mathematics   — Algorithms, Logic, and Problem Solving
-🧪 QA & Testing  — Manual, Automated, Selenium, JUnit
-🟦 JavaScript    — Frontend interactions
-🔷 HTML / CSS    — Beautiful neon layouts
-```
-
-🟪 **Frameworks & Tools:**
-
-```text
-🧬 Spring Boot   — Creating smart, RESTful APIs
-🔍 Postman       — API Testing Ninja
-📚 Maven / Gradle — Build Tools
-🌐 Git / GitHub  — My cyber-dock for missions
-🧪 JUnit         — Test-driven peace of mind
-```
-
-🟪 **Currently Learning:**
-
-```text
-⚙️ Microservices — Distributed systems in the cyber world
-🕵️ Ethical Hacking — To defend the Matrix
-🎮 Game Dev with Java — For the fun of the pixel
-```
+> 💻 I'm a **Cyberpunk Developer** — cutting through code like neon through night.  
+> I specialize in **Java**, **Spring Boot**, **QA Automation**, and **Mathematics**.  
+> Frontend? I bring **HTML/CSS/JS** to life like a city skyline in rain-soaked neon.  
+> I'm here to **build stunning systems**, **break them** (as QA), and **understand the math** behind it all.  
+> ⚙️ Let's disrupt the matrix together.
 
 ---
 
-## ✨ Projects I'm Proud Of
+## 🛠 TECHNOLOGIES I MASTER
 
-| Name                      | Tech Stack              | Description                                          |
-|---------------------------|--------------------------|------------------------------------------------------|
-| 🏦 Bank Terminal          | Java, OOP, SOLID         | Simple CLI project demonstrating strong architecture |
-| 📋 QA Automation Suite    | Selenium, JUnit, Java    | Test automation suite with real-world test cases     |
-| 🌐 Personal Portfolio     | HTML, CSS, JavaScript    | Neon-themed personal website                         |
-| 📊 Math Visualizer        | Java + JavaFX            | Graphs and formulas come to life                    |
+### 💾 Languages & Concepts
+
+- ☕ **Java** – My core, my power.
+- 🧪 **QA Automation** – Selenium | JUnit | TestNG
+- 🧠 **Mathematics** – Logic | Discrete | Algebra
+- 🌐 **HTML/CSS/JavaScript** – Light the frontend with neon.
+- 💡 **Spring Boot** – RESTful rebel with a cause.
+
+### 🚀 Frameworks / Tools / Platforms
+
+- 🔥 Spring Boot / MVC
+- ⚗️ Selenium WebDriver
+- 🔬 JUnit, TestNG
+- ⚙️ Maven, Gradle
+- 🛠 Git / GitHub
+- 🌐 Postman / Swagger
+- 🖥 VSCode / IntelliJ IDEA
 
 ---
 
-## 🔮 Stats and Activity
+## 🌌 CURRENTLY HACKING
+
+```text
+📦 Microservices - Breaking monoliths like a digital samurai
+🧬 Algorithms - Because speed matters
+🎮 Game Dev - Bringing neon dreams to life
+```
+
+---
+
+## 🧬 FEATURED PROJECTS
+
+| 🧩 Project Name        | 🚀 Tech Stack             | 💡 Description                                   |
+|------------------------|---------------------------|--------------------------------------------------|
+| CyberBank Terminal     | Java, OOP, SOLID          | Command-line bank with strong architecture       |
+| QA Automation Blitz    | Java, Selenium, TestNG    | Framework that auto-tests web apps at light speed|
+| Portfolio in the Grid  | HTML, CSS, JS             | Cyberpunk-themed personal portfolio              |
+| MathMatrix Visualizer  | JavaFX, Math, Algorithms  | Visualizing formulas in a digital 3D space       |
+
+---
+
+## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=neon-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF" />
 </p>
 
 <p align="center">
@@ -78,33 +79,34 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 LET'S CONNECT THROUGH THE NEON CLOUD
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-FC00FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FC00FF?style=for-the-badge&logo=firefox-browser&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ CYBER TRIVIA
 
-- 🏍 I love **motorcycles** as much as I love clean code.
-- 🧠 I'm addicted to **solving logic puzzles** and **algorithm challenges**.
-- 🎮 I plan to create my own **retro cyberpunk game** one day.
-- 🎧 Music fuels my flow — synthwave, lo-fi & drum'n'bass.
+- 🏍 Ex-biker. Now I ride **frameworks**.
+- 🎮 Code is my game. Sometimes literally.
+- 🔐 Testing and breaking stuff is part of the job.
+- 🌌 I dream of building a **VR cyberpunk world**.
 
 ---
 
-> **“In a world of bugs, be the debugger.”**
-
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVrb2lxMjd3dmoyYTFjdjN4YTZ3OW53dzUwMnphMmMwZGZtMmVqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kGEW6lH9tV5TG/giphy.gif" width="500" />
 </p>
+
+<h3 align="center">🚨 SYSTEM BREACHED. INITIATING CODE TRANSMISSION... 🚨</h3>
+
