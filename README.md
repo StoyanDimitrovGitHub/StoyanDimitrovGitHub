@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stoyan!</h1>
-<h3 align="center">A passionate backend developer from Sofia, Bulgaria.</h3>
+<h3 align="center">I'm from Bulgaria 🇧🇬, currently working remotely and loving the freedom of the digital world 🌐. I'm passionate about Java ☕, Spring Boot 🌱, Quality Assurance ✅, Mathematics 📐, and building amazing things with HTML/CSS 🎨 and JavaScript ⚡.
+
+When I'm not designing code or solving tricky bugs, you’ll probably find me riding motorcycles 🏍️, tuning cars 🔧, dreaming up engineering projects 💡, or simply enjoying life with some good music 🎵 and freedom on two wheels 🛣️.
+
+Let's create something amazing together. 💻🚀</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stoyandimitrovgithub" alt="stoyandimitrovgithub" /></a> </p>
 
