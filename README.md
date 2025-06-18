@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stoyan!</h1>
-<h3 align="center">I'm from Sofia, Bulgaria. Currently not working. I'm loving the freedom of the digital world 🌐.
+<h3 align="center">I'm from Sofia, Bulgaria and I'm loving the freedom of the digital world 🌐.
 
  I'm passionate about Java ☕, Spring Boot 🌱, Quality Assurance ✅ and building amazing things with HTML/CSS 🎨 and JavaScript ⚡.
 
