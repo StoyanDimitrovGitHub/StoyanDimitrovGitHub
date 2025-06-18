@@ -10,7 +10,6 @@ When I'm not designing code or solving tricky bugs, you’ll probably find me ri
 
 - 📫 How to reach me **mr.stoyan.dimitrov@gmail.com**
 
-- ⚡ Fun fact **I like motorcycles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
